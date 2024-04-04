@@ -1,0 +1,14 @@
+* {
+  font-family: "DINPro", sans-serif;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+.imagen-logo {
+  width: 33%;
+  margin: 20px;
+  padding-top: 10px;
+}
+.container-fluid {
+  align-items: center;
+}
